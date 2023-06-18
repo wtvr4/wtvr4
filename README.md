@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a fully adjustable random card picker](https://github.com/wtvr4/Random-Card-Picker)
 
-- 🌱 I’m currently learning Java | </a>src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+- 🌱 I’m currently learning Java | <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 
 - 👀 Planning to learn **Python | C++**
 
