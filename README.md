@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a fully adjustable random card picker](https://github.com/wtvr4/Random-Card-Picker)
 
-- 🌱 I’m currently learning : **Java | Swift | Python**
+- 🌱 I’m currently learning : **Swift | Python**
 
 - 👀 Planning to learn : **C++**
 
