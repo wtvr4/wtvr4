@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a [fully customizable random card picker](https://github.com/wtvr4/Random-Card-Picker)
 
-- 🌱 I’m currently learning : **Swift | Python**
+- 🌱 I’m currently learning : **Swift**
 
-- 👀 Planning to learn : **C++**
+- 👀 Planning to learn : **C++ | JavaScript**
 
 - 📫 How to reach me : **glury6@gmail.com**
 
