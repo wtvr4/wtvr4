@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mohamed Badir</h1>
 <h3 align="center">i code</h3>
 
-- 🔭 I’m currently working on a sign language tutoring app
+- 🔭 I’m currently working on a **sign language tutoring app**
 
-- 🌱 I’m currently learning : **Swift**
+- 🌱 I’m currently learning : **Swift | Java**
 
-- 👀 Planning to learn : **C++ | JavaScript**
+- 👀 Planning to learn : **JavaScript**
   
 <h3 align="left">Languages and Tools:</h3>
 
