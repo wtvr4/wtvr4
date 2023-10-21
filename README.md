@@ -7,7 +7,7 @@
 
 <p align=center>
   <samp>
-    “Worrying does not take away tomorrow’s troubles. It takes away today’s peace.” <br>
+    No man ever steps in the same river twice, for it's not the same river and he's not the same man. <br>
     
   </samp>
 </p>
