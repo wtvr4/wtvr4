@@ -7,7 +7,7 @@
 
 <p align=center>
   <samp>
-    No man ever steps in the same river twice, for it's not the same river and he's not the same man. <br>
+    It never gets easier you just get better <br>
     
   </samp>
 </p>
