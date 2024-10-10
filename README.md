@@ -7,7 +7,7 @@
 
 <p align=center>
   <samp>
-    It never gets easier you just get better <br>
+    . <br>
     
   </samp>
 </p>
