@@ -7,7 +7,7 @@
 
 <p align=center>
   <samp>
-    . <br>
+    student <br>
     
   </samp>
 </p>
